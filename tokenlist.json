@@ -1,0 +1,19 @@
+{
+  "name": "Burby Token List",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "timestamp": "2025-01-01T00:00:00.000Z",
+  "tokens": [
+    {
+      "chainId": 8453,
+      "address": "0xCF5abFD64Cfdd0ca6a47408E0Dd03bfa3Cd86be3",
+      "symbol": "BURBY",
+      "name": "Burby",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/burbytoken/burby/main/logo.png"
+    }
+  ]
+}
